@@ -1,0 +1,8 @@
+{
+  "name": "Kcal & Macros Calculator",
+  "short_name": "KcalCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#2f855a"
+}
